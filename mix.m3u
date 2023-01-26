@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://picon.ml/sts.png"group-title="",СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1 tvg-id="sts-love"tvg-logo="https://picon.ml/sts-love.png"group-title="",СТС Love
