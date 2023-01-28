@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
+#EXTM3U url-tvg="http://iptvx.one/EPG"
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://picon.ml/sts.png"group-title="",СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1 tvg-id="sts-love"tvg-logo="https://picon.ml/sts-love.png"group-title="",СТС Love
@@ -71,10 +71,6 @@ http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/2034/str
 http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1863/stream.m3u8
 #EXTINF:-1 tvg-id="magic-disney"tvg-logo="https://picon.ml/magic-disney.png"group-title="Кино",Magic Disney
 http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1864/stream.m3u8
-#EXTINF:-1 tvg-id="star-cinema"tvg-logo="https://picon.ml/star-cinema.png"group-title="Кино",Star Cinema HD
-https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
-#EXTINF:-1 tvg-id="star-family"tvg-logo="https://picon.ml/star-family.png"group-title="Кино",Star Family HD
-http://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 #EXTINF:-1 tvg-id="trashtv"tvg-logo="http://epg.it999.ru/img2/3361.png"group-title="Кино",Trash HD
 http://livetv.mylifeisgood.ml/channels/trash.m3u8
 #EXTINF:-1 tvg-id="tv1000-action"tvg-logo="http://epg.it999.ru/img2/3301.png"group-title="Кино",TV 1000 Action HD
